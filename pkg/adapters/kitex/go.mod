@@ -7,4 +7,5 @@ require (
 	github.com/cloudwego/kitex v0.3.4
 	github.com/cloudwego/kitex-examples v0.1.0
 	github.com/stretchr/testify v1.7.0
+	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e // indirect
 )
