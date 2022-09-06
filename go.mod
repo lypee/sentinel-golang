@@ -5,6 +5,7 @@ go 1.12
 require (
 	github.com/fsnotify/fsnotify v1.4.7
 	github.com/google/uuid v1.1.1
+	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.9.0
 	github.com/shirou/gopsutil/v3 v3.21.6
