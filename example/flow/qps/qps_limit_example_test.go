@@ -21,10 +21,10 @@ import (
 	"testing"
 	"time"
 
-	sentinel "github.com/alibaba/sentinel-golang/api"
-	"github.com/alibaba/sentinel-golang/core/base"
-	"github.com/alibaba/sentinel-golang/core/flow"
-	"github.com/alibaba/sentinel-golang/util"
+	sentinel "github.com/lypee/sentinel-golang/api"
+	"github.com/lypee/sentinel-golang/core/base"
+	"github.com/lypee/sentinel-golang/core/flow"
+	"github.com/lypee/sentinel-golang/util"
 )
 
 func Benchmark_qps(b *testing.B) {

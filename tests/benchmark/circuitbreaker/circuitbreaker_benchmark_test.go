@@ -18,9 +18,9 @@ import (
 	"log"
 	"testing"
 
-	sentinel "github.com/alibaba/sentinel-golang/api"
-	"github.com/alibaba/sentinel-golang/core/circuitbreaker"
-	"github.com/alibaba/sentinel-golang/tests/benchmark"
+	sentinel "github.com/lypee/sentinel-golang/api"
+	"github.com/lypee/sentinel-golang/core/circuitbreaker"
+	"github.com/lypee/sentinel-golang/tests/benchmark"
 )
 
 const (

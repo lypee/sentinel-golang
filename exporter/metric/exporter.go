@@ -19,8 +19,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/alibaba/sentinel-golang/core/config"
-	"github.com/alibaba/sentinel-golang/exporter/metric/prometheus"
+	"github.com/lypee/sentinel-golang/core/config"
+	"github.com/lypee/sentinel-golang/exporter/metric/prometheus"
 )
 
 var (

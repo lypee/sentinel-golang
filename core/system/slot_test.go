@@ -17,10 +17,10 @@ package system
 import (
 	"testing"
 
-	"github.com/alibaba/sentinel-golang/core/base"
-	"github.com/alibaba/sentinel-golang/core/stat"
-	"github.com/alibaba/sentinel-golang/core/system_metric"
-	"github.com/alibaba/sentinel-golang/util"
+	"github.com/lypee/sentinel-golang/core/base"
+	"github.com/lypee/sentinel-golang/core/stat"
+	"github.com/lypee/sentinel-golang/core/system_metric"
+	"github.com/lypee/sentinel-golang/util"
 	"github.com/stretchr/testify/assert"
 )
 

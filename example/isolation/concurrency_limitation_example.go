@@ -19,10 +19,10 @@ import (
 	"os"
 	"time"
 
-	sentinel "github.com/alibaba/sentinel-golang/api"
-	"github.com/alibaba/sentinel-golang/core/config"
-	"github.com/alibaba/sentinel-golang/core/isolation"
-	"github.com/alibaba/sentinel-golang/logging"
+	sentinel "github.com/lypee/sentinel-golang/api"
+	"github.com/lypee/sentinel-golang/core/config"
+	"github.com/lypee/sentinel-golang/core/isolation"
+	"github.com/lypee/sentinel-golang/logging"
 )
 
 func main() {

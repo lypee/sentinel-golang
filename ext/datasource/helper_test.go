@@ -22,11 +22,11 @@ import (
 	"strings"
 	"testing"
 
-	cb "github.com/alibaba/sentinel-golang/core/circuitbreaker"
-	"github.com/alibaba/sentinel-golang/core/flow"
-	"github.com/alibaba/sentinel-golang/core/hotspot"
-	"github.com/alibaba/sentinel-golang/core/isolation"
-	"github.com/alibaba/sentinel-golang/core/system"
+	cb "github.com/lypee/sentinel-golang/core/circuitbreaker"
+	"github.com/lypee/sentinel-golang/core/flow"
+	"github.com/lypee/sentinel-golang/core/hotspot"
+	"github.com/lypee/sentinel-golang/core/isolation"
+	"github.com/lypee/sentinel-golang/core/system"
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/assert"
 )

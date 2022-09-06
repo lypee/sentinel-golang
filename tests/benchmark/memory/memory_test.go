@@ -21,8 +21,8 @@ import (
 	"sync"
 	"testing"
 
-	sentinel "github.com/alibaba/sentinel-golang/api"
-	"github.com/alibaba/sentinel-golang/core/base"
+	sentinel "github.com/lypee/sentinel-golang/api"
+	"github.com/lypee/sentinel-golang/core/base"
 )
 
 func doSomethingWithSentinelWithResource(res string) {

@@ -19,11 +19,11 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/alibaba/sentinel-golang/core/config"
-	"github.com/alibaba/sentinel-golang/core/log/metric"
-	"github.com/alibaba/sentinel-golang/core/system_metric"
-	metric_exporter "github.com/alibaba/sentinel-golang/exporter/metric"
-	"github.com/alibaba/sentinel-golang/util"
+	"github.com/lypee/sentinel-golang/core/config"
+	"github.com/lypee/sentinel-golang/core/log/metric"
+	"github.com/lypee/sentinel-golang/core/system_metric"
+	metric_exporter "github.com/lypee/sentinel-golang/exporter/metric"
+	"github.com/lypee/sentinel-golang/util"
 	"github.com/pkg/errors"
 )
 

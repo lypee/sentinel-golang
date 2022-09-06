@@ -23,10 +23,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/alibaba/sentinel-golang/api"
-	sentinel "github.com/alibaba/sentinel-golang/api"
-	"github.com/alibaba/sentinel-golang/core/hotspot"
-	"github.com/alibaba/sentinel-golang/tests/benchmark"
+	"github.com/lypee/sentinel-golang/api"
+	sentinel "github.com/lypee/sentinel-golang/api"
+	"github.com/lypee/sentinel-golang/core/hotspot"
+	"github.com/lypee/sentinel-golang/tests/benchmark"
 )
 
 const (

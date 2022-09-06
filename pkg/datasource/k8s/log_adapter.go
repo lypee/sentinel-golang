@@ -3,7 +3,7 @@ package k8s
 import (
 	"strings"
 
-	"github.com/alibaba/sentinel-golang/logging"
+	"github.com/lypee/sentinel-golang/logging"
 	"github.com/go-logr/logr"
 )
 

@@ -17,7 +17,7 @@ package base
 import (
 	"sync"
 
-	"github.com/alibaba/sentinel-golang/logging"
+	"github.com/lypee/sentinel-golang/logging"
 	"github.com/pkg/errors"
 )
 

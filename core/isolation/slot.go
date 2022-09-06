@@ -15,8 +15,8 @@
 package isolation
 
 import (
-	"github.com/alibaba/sentinel-golang/core/base"
-	"github.com/alibaba/sentinel-golang/logging"
+	"github.com/lypee/sentinel-golang/core/base"
+	"github.com/lypee/sentinel-golang/logging"
 	"github.com/pkg/errors"
 )
 

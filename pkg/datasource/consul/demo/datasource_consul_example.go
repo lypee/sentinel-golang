@@ -7,13 +7,13 @@ import (
 	"os"
 	"time"
 
-	sentinel "github.com/alibaba/sentinel-golang/api"
-	"github.com/alibaba/sentinel-golang/core/base"
-	"github.com/alibaba/sentinel-golang/core/config"
-	"github.com/alibaba/sentinel-golang/core/flow"
-	"github.com/alibaba/sentinel-golang/ext/datasource"
-	"github.com/alibaba/sentinel-golang/logging"
-	"github.com/alibaba/sentinel-golang/pkg/datasource/consul"
+	sentinel "github.com/lypee/sentinel-golang/api"
+	"github.com/lypee/sentinel-golang/core/base"
+	"github.com/lypee/sentinel-golang/core/config"
+	"github.com/lypee/sentinel-golang/core/flow"
+	"github.com/lypee/sentinel-golang/ext/datasource"
+	"github.com/lypee/sentinel-golang/logging"
+	"github.com/lypee/sentinel-golang/pkg/datasource/consul"
 	"github.com/hashicorp/consul/api"
 )
 

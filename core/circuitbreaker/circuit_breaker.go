@@ -18,11 +18,11 @@ import (
 	"reflect"
 	"sync/atomic"
 
-	"github.com/alibaba/sentinel-golang/core/base"
-	sbase "github.com/alibaba/sentinel-golang/core/stat/base"
-	metric_exporter "github.com/alibaba/sentinel-golang/exporter/metric"
-	"github.com/alibaba/sentinel-golang/logging"
-	"github.com/alibaba/sentinel-golang/util"
+	"github.com/lypee/sentinel-golang/core/base"
+	sbase "github.com/lypee/sentinel-golang/core/stat/base"
+	metric_exporter "github.com/lypee/sentinel-golang/exporter/metric"
+	"github.com/lypee/sentinel-golang/logging"
+	"github.com/lypee/sentinel-golang/util"
 	"github.com/pkg/errors"
 )
 

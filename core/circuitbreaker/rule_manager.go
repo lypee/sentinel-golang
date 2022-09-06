@@ -19,8 +19,8 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/alibaba/sentinel-golang/logging"
-	"github.com/alibaba/sentinel-golang/util"
+	"github.com/lypee/sentinel-golang/logging"
+	"github.com/lypee/sentinel-golang/util"
 	"github.com/pkg/errors"
 )
 

@@ -18,8 +18,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/alibaba/sentinel-golang/core/hotspot"
-	"github.com/alibaba/sentinel-golang/logging"
+	"github.com/lypee/sentinel-golang/core/hotspot"
+	"github.com/lypee/sentinel-golang/logging"
 	"github.com/pkg/errors"
 )
 
